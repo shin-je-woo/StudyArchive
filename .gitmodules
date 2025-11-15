@@ -1,3 +1,6 @@
 [submodule "Designing-Data-Intensive-Applications"]
 	path = Designing-Data-Intensive-Applications
 	url = git@github.com:shin-je-woo/Designing-Data-Intensive-Applications.git
+[submodule "Domain-Driven-Design-start2"]
+	path = Domain-Driven-Design-start2
+	url = git@github.com:shin-je-woo/Domain-Driven-Design-start2.git
