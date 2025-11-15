@@ -1,0 +1,3 @@
+[submodule "Designing-Data-Intensive-Applications"]
+	path = Designing-Data-Intensive-Applications
+	url = git@github.com:shin-je-woo/Designing-Data-Intensive-Applications.git
