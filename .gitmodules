@@ -7,3 +7,6 @@
 [submodule "effective-java-group-study"]
 	path = effective-java-group-study
 	url = git@github.com:shin-je-woo/effective-java-group-study.git
+[submodule "modern-java-in-action-study"]
+	path = modern-java-in-action-study
+	url = git@github.com:shin-je-woo/modern-java-in-action-study.git
