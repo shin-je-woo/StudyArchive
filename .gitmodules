@@ -4,3 +4,6 @@
 [submodule "Domain-Driven-Design-start2"]
 	path = Domain-Driven-Design-start2
 	url = git@github.com:shin-je-woo/Domain-Driven-Design-start2.git
+[submodule "effective-java-group-study"]
+	path = effective-java-group-study
+	url = git@github.com:shin-je-woo/effective-java-group-study.git
