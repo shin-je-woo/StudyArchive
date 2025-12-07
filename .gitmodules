@@ -10,3 +10,6 @@
 [submodule "modern-java-in-action-study"]
 	path = modern-java-in-action-study
 	url = git@github.com:shin-je-woo/modern-java-in-action-study.git
+[submodule "Large-Scale-Web-Service-Technology"]
+	path = Large-Scale-Web-Service-Technology
+	url = git@github.com:shin-je-woo/Large-Scale-Web-Service-Technology.git
