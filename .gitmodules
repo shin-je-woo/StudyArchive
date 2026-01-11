@@ -13,3 +13,6 @@
 [submodule "Large-Scale-Web-Service-Technology"]
 	path = Large-Scale-Web-Service-Technology
 	url = git@github.com:shin-je-woo/Large-Scale-Web-Service-Technology.git
+[submodule "Real-MySQL-80-vol1"]
+	path = Real-MySQL-80-vol1
+	url = git@github.com:shin-je-woo/Real-MySQL-80-vol1.git
